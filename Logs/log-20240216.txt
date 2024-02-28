@@ -1,0 +1,6 @@
+2024-02-16T09:07:24.0655199-06:00  [INF] Now listening on: "https://localhost:7167" (d826f4b8)
+2024-02-16T09:07:24.0721422-06:00  [INF] Now listening on: "http://localhost:5198" (d826f4b8)
+2024-02-16T09:07:24.0818674-06:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-02-16T09:07:24.0902280-06:00  [INF] Hosting environment: "Development" (c3307c92)
+2024-02-16T09:07:24.0918989-06:00  [INF] Content root path: "D:\Projects\GraphAPIMailSender\GraphAPIMailSender\" (b5d60022)
+2024-02-16T09:07:37.2585200-06:00 0HN1F03TJ4EK4:00000002 [INF] API started at:2/16/2024 9:07:37 AM (2bc0a8c8)

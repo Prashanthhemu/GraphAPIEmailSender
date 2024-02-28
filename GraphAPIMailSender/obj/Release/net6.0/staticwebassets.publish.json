@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "935cxN2JQWEBDy1RyLGF4pR3uvecUgEr4Fdxzy1aaJ4=",
+  "Source": "GraphAPIMailSender",
+  "BasePath": "_content/GraphAPIMailSender",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
